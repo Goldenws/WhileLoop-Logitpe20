@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\bin\Debug\netcoreapp3.1\GuessMyColour.exe
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\bin\Debug\netcoreapp3.1\GuessMyColour.deps.json
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\bin\Debug\netcoreapp3.1\GuessMyColour.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\bin\Debug\netcoreapp3.1\GuessMyColour.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\bin\Debug\netcoreapp3.1\GuessMyColour.dll
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\bin\Debug\netcoreapp3.1\GuessMyColour.pdb
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.dll
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.pdb
+C:\Users\Roland Strod\source\repos\WhileLoop\GuessMyColour\obj\Debug\netcoreapp3.1\GuessMyColour.genruntimeconfig.cache

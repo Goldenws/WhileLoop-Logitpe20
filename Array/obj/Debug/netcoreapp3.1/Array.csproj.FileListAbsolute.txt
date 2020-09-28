@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Roland Strod\source\repos\WhileLoop\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

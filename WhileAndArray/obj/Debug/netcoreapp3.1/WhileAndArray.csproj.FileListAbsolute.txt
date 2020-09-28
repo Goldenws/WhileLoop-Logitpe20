@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.exe
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.deps.json
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.dll
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.pdb
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.dll
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.pdb
+C:\Users\Roland Strod\source\repos\WhileLoop\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.genruntimeconfig.cache
